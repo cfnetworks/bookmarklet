@@ -1,2 +1,2 @@
 # bookmarklet
-Bookmarklet Boilerplate
+Boilerplate for Bookmarklet
